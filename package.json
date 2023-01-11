@@ -1,0 +1,20 @@
+{
+  "name": "qoobee-css",
+  "version": "1.0.0",
+  "description": "Mobile css framework, Compatible with Taro, Uniapp and miniprogram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcdon/qoobee-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcdon/qoobee-css/issues"
+  },
+  "homepage": "https://github.com/bcdon/qoobee-css#readme"
+}
